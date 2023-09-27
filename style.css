@@ -2,8 +2,13 @@
 {
     width: 2480px;
     height: 3508px;
+    margin: 0 auto;
+    border: 2px solid;
+    border-color: black;
 }
 #font
 {
     
+    font-family: 'EB Garamond', serif;
 }
+
